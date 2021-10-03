@@ -9,7 +9,7 @@ Basic CLI save editor for Medieival Dynasty written in Go.
 Give 1000 coins and 500 dynasty reputation:   
 `md_save_editor.exe G:\md_save_backups\Quicksave.sav -c 1000 -r 500`
 
-You can use the batch files instead by dragging your save file onto them.
+You can use the batch files instead by dragging your save files onto them.
 
 ```
 Usage: md_save_editor [--age AGE] [--coins COINS] [--reputation REPUTATION] PATH
