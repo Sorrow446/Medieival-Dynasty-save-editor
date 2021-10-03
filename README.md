@@ -4,7 +4,7 @@ Basic CLI save editor for Medieival Dynasty written in Go.
 [Windows binaries](https://github.com/Sorrow446/Medieival-Dynasty-save-editor/releases)
 
 # Usage
-**Backup your saves first. Made for GOG 1.0.0.6.**
+**Backup your saves first. Made for GOG 1.0.0.6.**   
 Save dir: `%LOCALAPPDATA%\Medieval_Dynasty\Saved\SaveGames`
 
 Give 1000 coins and 500 dynasty reputation:   
